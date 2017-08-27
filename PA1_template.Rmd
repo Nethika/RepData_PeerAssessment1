@@ -66,7 +66,7 @@ mean_steps2 <- mean(total_steps2$steps)
 Mean total number of steps taken per day is `r mean_steps2`.  
 Median total number of steps taken per day is `r median_steps2`.  
 
-Mean doesn't chenge, beacuse I used mean values for the NA's. Median in increased from `r median_steps` to `r median_steps2`. Median became more closer to the mean. Mean is equal to median, that means the distribution is symmetric.
+Mean doesn't change, because I used mean values for the NA's. Median is increased from `r median_steps` to `r median_steps2`. Median has become closer to the mean. Mean is equal to median, that means the distribution is symmetric.
 
 ## Are there differences in activity patterns between weekdays and weekends?
 
